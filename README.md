@@ -1,16 +1,30 @@
-### Hi there 👋
+[LinkedIn](https://www.linkedin.com/in/abhaynavada)\
+[X (Twitter)](https://twitter.com/abhaynavada)\
+[anavada@usc.edu](anavada@usc.edu)\
+[GitHub](https://github.com/abhaynavada)\
+[Goodreads](https://www.goodreads.com/abhaynavada)
+
+### Hello! 👋
+I'm Abhay, a dynamic MS in Computer Science graduate from the University of Southern California, Los Angeles, California. With a strong foundation in computer science, I specialize in full-stack web development, bringing a blend of technical expertise and creative problem-solving to every project.
+
+### 🚀 Key Highlights:
+- **Education:** Master's in Computer Science, USC.
+- **Expertise:** Full-stack Web Development.
+- **Experience:** Proven track record in software engineering roles, including work on multiplayer games, recommendation applications, and machine learning projects.
+
+### 💡 Passionate About:
+- Crafting seamless and user-friendly web experiences.
+- Bridging the gap between technology and design in innovative ways.
+
+### 🧘 Fun Fact:
+- Certified Yoga Instructor (RYT 500) with over 3 years of professional teaching experience.
+- Balancing the world of code with the tranquility of yoga is my way of achieving harmony.
+
+### 🔍 Exploring Opportunities:
+- Currently seeking roles in full-stack development where I can leverage my skills to create impactful and engaging digital solutions.
+
+### Let's connect and explore the exciting intersections of technology and creativity! 🌐✨
 
 <!--
 **AbhayNavada/AbhayNavada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
