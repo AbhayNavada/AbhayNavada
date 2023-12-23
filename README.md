@@ -1,5 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/abhaynavada)
 &emsp;
+[Website](https://abhaynavada.vercel.app/)
+&emsp;
 [X (Twitter)](https://twitter.com/abhaynavada)
 &emsp;
 [anavada@usc.edu](anavada@usc.edu)
