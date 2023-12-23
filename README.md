@@ -1,7 +1,11 @@
-[LinkedIn](https://www.linkedin.com/in/abhaynavada)\
-[X (Twitter)](https://twitter.com/abhaynavada)\
-[anavada@usc.edu](anavada@usc.edu)\
-[GitHub](https://github.com/abhaynavada)\
+[LinkedIn](https://www.linkedin.com/in/abhaynavada)
+&emsp;
+[X (Twitter)](https://twitter.com/abhaynavada)
+&emsp;
+[anavada@usc.edu](anavada@usc.edu)
+&emsp;
+[GitHub](https://github.com/abhaynavada)
+&emsp;
 [Goodreads](https://www.goodreads.com/abhaynavada)
 
 ### Hello! 👋
